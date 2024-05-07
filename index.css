@@ -1,0 +1,36 @@
+body {
+
+    background-color: blanchedalmond;
+    width: 50%;
+
+}
+
+.miimagen {
+    height: 200px;
+    width: 200px;
+    justify-content: center;
+    display: flex;
+    background-position: center;
+}
+
+.texto-color {
+    color: red; 
+    font-size: 50px;
+    text-decoration: underline;
+
+}
+.a{
+    text-decoration: underline;
+
+}
+.link{
+    text-decoration: none;
+}
+.pie{
+    text-decoration: underline;
+    text-decoration: double;
+}
+b.{
+    text-decoration: none;
+    text-decoration: black;
+}
